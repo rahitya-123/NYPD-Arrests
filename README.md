@@ -1,4 +1,4 @@
-###NYPD Arrests
+### NYPD Arrests
 In this project, I build an ETL Pipeline for NYPD Arrest Data using Python, SQL Server, and Power BI.
 
 I start with extracting the data from NYC Open Data API, then perform some transformations, do data validation, and then, finally load it into SQL Server.
